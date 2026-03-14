@@ -1,4 +1,4 @@
-# Isumi Wickramasooriya — Portfolio
+# Isumi Wickramasooriya - Portfolio
 
 Hi, I'm Isumi, a Software Engineering undergraduate passionate about building clean, well-structured software.  
 I enjoy working on both full-stack web applications and mobile apps, exploring modern frameworks, and learning new technologies.
@@ -21,7 +21,7 @@ A mobile news application that works offline by caching articles locally.
 - Clean, modern UI for an intuitive reading experience
 - Fetches and syncs remote news efficiently
 
-### FixIt – Home Repair Service App
+### FixIt - Home Repair Service App
 A Flutter prototype connecting homeowners with verified repair professionals.  
 **Technologies:** Flutter, Dart  
 **Highlights:**
